@@ -28,8 +28,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9ec6257f-0c54-488f-8455-d73709f92677">
     <bounds
-        x="1229"
-        y="1002"
+        x="1248"
+        y="1032"
         width="120"
         height="55"/>
     <archimateElement
@@ -54,8 +54,8 @@
       id="55d5b1e3-a1f9-492b-b15b-dbf81bec8345"
       targetConnections="27092983-70b7-4cee-bb7a-f9f5e8d9fe2a d43fe4d9-75db-4044-a694-bc962ccd73be">
     <bounds
-        x="1468"
-        y="1002"
+        x="1584"
+        y="1140"
         width="120"
         height="55"/>
     <archimateElement
@@ -84,8 +84,8 @@
           href="AssignmentRelationship_b4793651-c3b2-4100-b3c5-930d7f629e01.xml#b4793651-c3b2-4100-b3c5-930d7f629e01"/>
     </sourceConnections>
     <bounds
-        x="1612"
-        y="1110"
+        x="1596"
+        y="918"
         width="120"
         height="55"/>
     <archimateElement
